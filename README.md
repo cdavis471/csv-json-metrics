@@ -2,7 +2,7 @@
 This is a web application that is used to view the output of CSV and certain JSON files within a table. The initial design
 was done as a personal side project while working at Mastercard as an Intern. It is not yet completed but in the current
 state, all CSV files are viewable with only a certain JSON format at the minute confirmed working, examples of which I
-will leave below
+will leave below.
 
 ### CSV File Format
 
